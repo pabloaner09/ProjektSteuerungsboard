@@ -1,0 +1,4 @@
+Man erzeugt ein neues Projekt in der STM32 IDE. 
+Dann belegt man alle knöpfe wie man sehen kann im Schaltplan
+Stellt alles so ein, damit die Pins grün werden. 
+Einzelheiten müssen beachtet werden mit der Clock oder USB, Pawel Pfaff fragen
